@@ -53,7 +53,7 @@ export default function LandingPage() {
             asChild
           >
             <a
-              href="https://github.com/ton-username/sentinel-vault"
+              href="https://github.com/MacoGaminG/sentinel-vault-concept"
               target="_blank"
               rel="noopener noreferrer"
             >
